@@ -20,7 +20,7 @@ class MyDocument extends Document {
                         property="og:description"
                         content="CSI’s at Gravitas, where are you?"
                     />
-                    <meta property="og:image" itemProp="image" content="https://gravitas.csivit.com/images/gravitasxcsi.png" />
+                    <meta property="og:image" itemProp="image" content="gravitasxcsi.png" />
 
                     <meta property="twitter:card" content="summary_large_image" />
                     <meta property="twitter:url" content="https://gravitas.csivit.com/" />
@@ -29,7 +29,7 @@ class MyDocument extends Document {
                         property="twitter:description"
                         content="Computer Society of India-VIT brings together some of the best designers, developers, and tech enthusiasts who collaborate and organize various events, workshops and hackathons every year with the motivation of pushing technology forward and fostering a community of tech enthusiasts."
                     />
-                    <meta property="twitter:image" content="https://gravitas.csivit.com/images/gravitasxcsi.png" />
+                    <meta property="twitter:image" content="gravitasxcsi.png" />
 
                     <meta name="keywords" content="csixgravitas,gravitas,csi,tech,csictf,csi,csi-vit,devspace,vit,laser tag,under the hood,clickbait,,send codez,computer society of india,csivit,csivitu,lasertag,sendcodez,wrapped,vellore,chapter,uth,techex,ctf,ffcs,ffcs.ooo,ctf.csivit" />
 
@@ -45,7 +45,6 @@ class MyDocument extends Document {
                 <body>
                     <Main />
                     <NextScript />
-                    
                 </body>
             </Html>
         );
